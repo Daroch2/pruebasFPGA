@@ -1,1 +1,1 @@
-pruebasFPGA
+proyecto para pruebas FPGA
